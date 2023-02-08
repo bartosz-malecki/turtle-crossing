@@ -2,7 +2,7 @@
 
 ## Description:
 
-Simple Turtle Crossing game created with Python with Turtle Library.
+Simple Turtle Crossing game created in Python with Turtle Library.
 
 ## Requirements:
 - Python3

@@ -16,4 +16,4 @@ or
 
 $ python3 main.py
 
-When Game Over screean apears use ESC to exit or ENTER if you want to play again.
+When game is over, left-click mouse or X.
